@@ -1,0 +1,6 @@
+{
+  "name": "Jiva — Smart Healthcare Appointment & Queue Coordination",
+  "description": "Architecture-focused healthcare appointment scheduling, live patient queue coordination, idempotent booking recovery, and clinical audit platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
