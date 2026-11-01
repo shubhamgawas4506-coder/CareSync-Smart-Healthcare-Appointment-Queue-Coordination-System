@@ -66,7 +66,7 @@ export function WelcomeRoleScreen() {
           }}
           className="text-lg font-display font-bold tracking-tight text-slate-900 dark:text-white whitespace-nowrap shrink-0"
         >
-          CareSync
+          Jiva
         </a>
 
         <nav
@@ -131,7 +131,7 @@ export function WelcomeRoleScreen() {
                 Reliable healthcare scheduling, live check-in queues, and safe network recovery.
               </h1>
               <p className="text-base text-slate-600 dark:text-slate-300 leading-relaxed max-w-2xl">
-                CareSync coordinates appointment lifecycles across patients, physicians, and clinic
+                Jiva coordinates appointment lifecycles across patients, physicians, and clinic
                 coordinators. Every booking request carries a stable idempotency identifier to
                 prevent duplicate appointments during network drops, enforce strict slot conflict
                 rules, and record an immutable transition history.
@@ -499,7 +499,7 @@ export function WelcomeRoleScreen() {
       </main>
 
       <footer className="border-t border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 px-6 lg:px-10 py-5 text-xs text-slate-500 dark:text-slate-400 flex flex-wrap items-center justify-between gap-4">
-        <span>CareSync Outpatient Appointment &amp; Queue Coordination Prototype (MAL 4)</span>
+        <span>Jiva Outpatient Appointment &amp; Queue Coordination Prototype (MAL 4)</span>
         <span>Single-device browser persistence · Non-diagnostic coordination software</span>
       </footer>
     </div>

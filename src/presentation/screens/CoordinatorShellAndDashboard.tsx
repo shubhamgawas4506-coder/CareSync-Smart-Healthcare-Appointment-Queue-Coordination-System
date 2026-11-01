@@ -94,7 +94,7 @@ export function CoordinatorWorkspaceShell({ children }: { children: React.ReactN
               onClick={() => navigateTo('welcome')}
               className="text-lg font-display font-bold tracking-tight text-slate-900 dark:text-white cursor-pointer"
             >
-              CareSync
+              Jiva
             </button>
             <p className="text-xs text-slate-500 dark:text-slate-400 mt-0.5">
               Coordinator Command
@@ -191,7 +191,7 @@ export function CoordinatorWorkspaceShell({ children }: { children: React.ReactN
               onClick={() => navigateTo('welcome')}
               className="font-display font-bold text-slate-900 dark:text-white lg:font-medium lg:text-slate-500 lg:dark:text-slate-400 hover:underline whitespace-nowrap cursor-pointer"
             >
-              CareSync
+              Jiva
             </button>
             <span className="text-slate-400" aria-hidden="true">
               /

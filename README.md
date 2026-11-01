@@ -1,8 +1,8 @@
-# CareSync — Smart Healthcare Appointment & Queue Coordination System
+# Jiva — Smart Healthcare Appointment & Queue Coordination System
 
-**CareSync** is an architecture-focused outpatient healthcare appointment scheduling, live check-in queue coordination, idempotent booking recovery, and clinical audit prototype built for **Mobile Architecture Lab 4 (MAL 4)**.
+**Jiva** is an architecture-focused outpatient healthcare appointment scheduling, live check-in queue coordination, idempotent booking recovery, and clinical audit prototype built for **Mobile Architecture Lab 4 (MAL 4)**.
 
-> **Scope & Safety Disclosure:** CareSync is an appointment and queue coordination prototype—**not** a medical diagnosis, clinical decision-support, or emergency triage application. Demo role switching is provided for architectural workflow verification and is **not** real authentication or authorization.
+> **Scope & Safety Disclosure:** Jiva is an appointment and queue coordination prototype—**not** a medical diagnosis, clinical decision-support, or emergency triage application. Demo role switching is provided for architectural workflow verification and is **not** real authentication or authorization.
 
 ---
 

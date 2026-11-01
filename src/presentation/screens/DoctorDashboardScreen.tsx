@@ -141,7 +141,7 @@ export function DoctorDashboardScreen() {
           onClick={() => navigateTo('welcome')}
           className="text-lg font-display font-bold tracking-tight text-slate-900 dark:text-white whitespace-nowrap shrink-0 cursor-pointer"
         >
-          CareSync
+          Jiva
         </button>
 
         <nav

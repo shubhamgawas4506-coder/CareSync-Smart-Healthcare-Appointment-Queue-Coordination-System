@@ -675,7 +675,7 @@ export function DiagnosticsAndAuditView() {
                   <strong className="text-slate-900 dark:text-white">
                     Single-Device Prototype Scope:
                   </strong>{' '}
-                  CareSync currently persists its canonical snapshot in browser{' '}
+                  Jiva currently persists its canonical snapshot in browser{' '}
                   <code className="font-mono">localStorage</code> via{' '}
                   <code className="font-mono">ICareSyncRepository</code>. This preserves state
                   across refreshes and restarts on one browser profile without claiming multi-user
